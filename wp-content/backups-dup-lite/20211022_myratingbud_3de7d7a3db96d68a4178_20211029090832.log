@@ -1,0 +1,80 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: October 29, 2021 9:08 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.3
+WORDPRESS:	5.8.1
+PHP INFO:	7.4.23 | SAPI: litespeed
+SERVER:		Apache 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (256M default) 
+MEMORY STACK: 6MB
+[CTRL DUP ARCIVE] PACKAGE AS NEW ID 2 SAVED | STATUS:0
+[DUP ARCHIVE] BUILDING DATABASE
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20211022_myratingbud_3de7d7a3db96d68a4178_20211029090832_database.sql
+SQL FILE SIZE: 5.45MB (5718754)
+SQL FILE TIME: 2021-10-29 09:08:45
+SQL RUNTIME: 0.38 sec.
+[DUP ARCHIVE] VALIDATING DATABASE
+[DUP ARCHIVE] DONE DATABASE
+
+********************************************************************************
+ARCHIVE Type=DUP Mode=DupArchive
+********************************************************************************
+ARCHIVE DIR:  /home/scgmf4urg2is/public_html/nikul/mrb
+ARCHIVE FILE: 20211022_myratingbud_3de7d7a3db96d68a4178_20211029090832_archive.daf
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	128.11MB
+STATS:	Dirs 680 | Files 6,663 | Total 7,343
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] DONE ARCHIVE
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files7
+add_extra_files_using_da1
+Adding enhanced installer files to archive using DupArchive
+[DUP ARCHIVE] DONE ARCHIVE
+COMPRESSED SIZE: 56.67MB
+ARCHIVE RUNTIME: 20.74 sec.
+MEMORY STACK: 10MB
+CREATE WARNINGS: No warnings.
+VALIDATION WARNINGS: No warnings.
+[DUP ARCHIVE] DONE ARCHIVE
+[DUP ARCHIVE] HAS COMPLETED CLOSING
+[DUP ARCHIVE] DUP ARCHIVE INTEGRITY CHECK
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 5.45MB
+INSTALLER FILE: 78.13KB
+ARCHIVE FILE: 56.67MB 
+EXPECTED FILE/DIRECTORY COUNT: 7,533
+ACTUAL FILE/DIRECTORY COUNT: 7,533
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 20.75 sec.
+PEAK PHP MEMORY USED: 12MB
+DONE PROCESSING => 20211022_myratingbud 2021-10-29 09:09:05
+

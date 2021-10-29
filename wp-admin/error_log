@@ -1,0 +1,130 @@
+[18-Oct-2021 11:16:07 UTC] WordPress database error Unknown column 'mrb_' in 'field list' for query SELECT mrb_
+[18-Oct-2021 13:02:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:03:43 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:03:57 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:03:58 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:04:13 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:04:53 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:04:55 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:04:57 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:05:45 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:06:05 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:06:07 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:06:23 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:06:37 UTC] PHP Parse error:  syntax error, unexpected 'et_get_footer_credits' (T_STRING) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:09:46 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 1
+[18-Oct-2021 13:10:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_origin_headers() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-admin/admin-ajax.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/scgmf4urg2is/public_html/nikul/mrb/wp-admin/admin-ajax.php on line 25
+[22-Oct-2021 09:03:55 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 09:03:55 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 09:12:10 UTC] PHP Notice:  tempnam(): file created in the system's temporary directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1268
+[22-Oct-2021 09:12:10 UTC] PHP Notice:  tempnam(): file created in the system's temporary directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1268
+[22-Oct-2021 09:12:10 UTC] PHP Notice:  tempnam(): file created in the system's temporary directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1268
+[22-Oct-2021 09:12:10 UTC] PHP Notice:  tempnam(): file created in the system's temporary directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1268
+[22-Oct-2021 09:12:10 UTC] PHP Notice:  tempnam(): file created in the system's temporary directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1268
+[22-Oct-2021 09:12:10 UTC] PHP Notice:  tempnam(): file created in the system's temporary directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache-phase2.php on line 1268
+[22-Oct-2021 09:12:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/wp-super-cache/wp-cache.php on line 2050
+[22-Oct-2021 10:03:00 UTC] PHP Warning:  require_once(/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/et-pagebuilder/et-pagebuilder.php): failed to open stream: No such file or directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php on line 8015
+[22-Oct-2021 10:03:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/et-pagebuilder/et-pagebuilder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php on line 8015
+[22-Oct-2021 10:03:25 UTC] PHP Warning:  require_once(/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/includes/theme-builder.php): failed to open stream: No such file or directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php on line 8016
+[22-Oct-2021 10:03:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/includes/theme-builder.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php on line 8016
+[22-Oct-2021 10:03:25 UTC] PHP Warning:  require_once(/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Updates.php): failed to open stream: No such file or directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php on line 889
+[22-Oct-2021 10:03:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Updates.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php on line 889
+[22-Oct-2021 10:03:53 UTC] PHP Warning:  require_once(/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Updates.php): failed to open stream: No such file or directory in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php on line 889
+[22-Oct-2021 10:03:53 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Updates.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php on line 889
+[22-Oct-2021 10:04:25 UTC] PHP Fatal error:  Uncaught Error: Class 'ET_Core_Data_Utils' not found in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php:143
+Stack trace:
+#0 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php(153): ET_Core_Logger::initialize()
+#1 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(50): require_once('/home/scgmf4urg...')
+#2 [internal function]: et_core_autoloader('ET_Core_Logger')
+#3 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(490): spl_autoload_call('ET_Core_Logger')
+#4 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(769): et_core_maybe_patch_old_theme()
+#5 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php(18): et_core_setup('https://nikul.w...')
+#6 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.php(303): et_setup_theme('')
+#7 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.p in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php on line 143
+[22-Oct-2021 10:04:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ET_Core_Data_Utils' not found in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php:143
+Stack trace:
+#0 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php(153): ET_Core_Logger::initialize()
+#1 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(50): require_once('/home/scgmf4urg...')
+#2 [internal function]: et_core_autoloader('ET_Core_Logger')
+#3 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(490): spl_autoload_call('ET_Core_Logger')
+#4 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(769): et_core_maybe_patch_old_theme()
+#5 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php(18): et_core_setup('https://nikul.w...')
+#6 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.php(303): et_setup_theme('')
+#7 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.p in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php on line 143
+[22-Oct-2021 10:05:27 UTC] PHP Fatal error:  Uncaught Error: Class 'ET_Core_Data_Utils' not found in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php:143
+Stack trace:
+#0 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php(153): ET_Core_Logger::initialize()
+#1 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(50): require_once('/home/scgmf4urg...')
+#2 [internal function]: et_core_autoloader('ET_Core_Logger')
+#3 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(490): spl_autoload_call('ET_Core_Logger')
+#4 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(769): et_core_maybe_patch_old_theme()
+#5 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php(18): et_core_setup('https://nikul.w...')
+#6 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.php(303): et_setup_theme('')
+#7 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.p in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php on line 143
+[22-Oct-2021 10:05:53 UTC] PHP Fatal error:  Uncaught Error: Class 'ET_Core_Data_Utils' not found in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php:143
+Stack trace:
+#0 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php(153): ET_Core_Logger::initialize()
+#1 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(50): require_once('/home/scgmf4urg...')
+#2 [internal function]: et_core_autoloader('ET_Core_Logger')
+#3 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(490): spl_autoload_call('ET_Core_Logger')
+#4 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(769): et_core_maybe_patch_old_theme()
+#5 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php(18): et_core_setup('https://nikul.w...')
+#6 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.php(303): et_setup_theme('')
+#7 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.p in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php on line 143
+[22-Oct-2021 10:06:54 UTC] PHP Fatal error:  Uncaught Error: Class 'ET_Core_Data_Utils' not found in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php:143
+Stack trace:
+#0 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php(153): ET_Core_Logger::initialize()
+#1 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(50): require_once('/home/scgmf4urg...')
+#2 [internal function]: et_core_autoloader('ET_Core_Logger')
+#3 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(490): spl_autoload_call('ET_Core_Logger')
+#4 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/functions.php(769): et_core_maybe_patch_old_theme()
+#5 /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/functions.php(18): et_core_setup('https://nikul.w...')
+#6 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.php(303): et_setup_theme('')
+#7 /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-hook.p in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi/core/components/Logger.php on line 143
+[22-Oct-2021 11:05:01 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:05:01 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:30:00 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:30:00 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:36:23 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:36:23 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:36:59 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:36:59 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:37:11 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:37:11 UTC] PHP Deprecated:  block_categories is <strong>deprecated</strong> since version 5.8.0! Use block_categories_all instead. in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5586
+[22-Oct-2021 11:48:03 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[22-Oct-2021 11:51:38 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[22-Oct-2021 11:53:32 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[22-Oct-2021 11:54:05 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[22-Oct-2021 12:17:59 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[22-Oct-2021 12:27:25 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[23-Oct-2021 03:51:58 UTC] PHP Notice:  Undefined index: package in /home/scgmf4urg2is/public_html/nikul/mrb/wp-admin/includes/class-theme-upgrader.php on line 440
+[23-Oct-2021 05:46:51 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[23-Oct-2021 09:32:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[23-Oct-2021 09:32:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[23-Oct-2021 09:32:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[23-Oct-2021 09:32:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[25-Oct-2021 04:06:18 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[25-Oct-2021 10:28:51 UTC] PHP Notice:  wp_enqueue_script() was called <strong>incorrectly</strong>. "wp-editor" script should not be enqueued together with the new widgets editor (wp-edit-widgets or wp-customize-widgets). Please see <a href="https://wordpress.org/support/article/debugging-in-wordpress/">Debugging in WordPress</a> for more information. (This message was added in version 5.8.0.) in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/functions.php on line 5663
+[25-Oct-2021 12:16:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 82
+[25-Oct-2021 12:16:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 82
+[25-Oct-2021 12:17:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 82
+[25-Oct-2021 12:17:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 82
+[25-Oct-2021 12:22:40 UTC] PHP Parse error:  syntax error, unexpected '$categories' (T_VARIABLE), expecting ';' or ',' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 85
+[25-Oct-2021 12:22:48 UTC] PHP Parse error:  syntax error, unexpected '$categories' (T_VARIABLE), expecting ';' or ',' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 85
+[25-Oct-2021 12:23:32 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 85
+[25-Oct-2021 12:23:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 85
+[25-Oct-2021 12:23:49 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 85
+[25-Oct-2021 12:23:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 85
+[25-Oct-2021 12:26:42 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 86
+[25-Oct-2021 12:26:50 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/themes/Divi-child/functions.php on line 86
+[29-Oct-2021 11:39:45 UTC] PHP Notice:  Undefined index: pll_de in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/polylang/include/model.php on line 96
+[29-Oct-2021 11:40:31 UTC] PHP Notice:  Undefined index: pll_fr in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/polylang/include/model.php on line 96
+[29-Oct-2021 11:40:56 UTC] PHP Notice:  Undefined index: pll_fa in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/polylang/include/model.php on line 96
+[29-Oct-2021 11:41:31 UTC] PHP Notice:  Undefined index: pll_nl in /home/scgmf4urg2is/public_html/nikul/mrb/wp-content/plugins/polylang/include/model.php on line 96
+[29-Oct-2021 11:46:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[29-Oct-2021 11:46:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[29-Oct-2021 11:46:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
+[29-Oct-2021 11:46:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/scgmf4urg2is/public_html/nikul/mrb/wp-includes/class-wp-list-util.php on line 164
